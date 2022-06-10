@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-## Breast Cancer Detection by using Convolutional Neural Network (CNN)
-=======
 ## Breast Cancer Detection by using Convolutional Neural Network (CNN) <br> (Deep Learning Term Project)
->>>>>>> 92cc962721b7a1705484465e30d7e1b143466c26
 
 - Breast cancer is the most common type of cancer in women worldwide. When cancer is diagnosed at an early stage (first stage), the success rate of breast cancer treatment is over 90%. The aim of this project is to develop a model to detect whether the tumor image in the existing dataset is benign or malignant. 
 
